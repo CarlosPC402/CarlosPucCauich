@@ -5,13 +5,12 @@
 ### Category Name 1 
 
 [FrankWorld](/sample_page)
-</br>
-<p>Hola</p>
-</br>
+<p>Juego en 2D desarrollado en UNITY</p>
 <img src="images/3.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Sistema de Reconocimientos UTM](/pdf/sample_presentation.pdf)
+<p>Sistema de Gestión de alumnos y envío de reconociemtnos desarrollado con php y el framework Laravel</p>
 <img src="images/1.png?raw=true"/>
 
 ---
