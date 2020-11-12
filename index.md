@@ -4,6 +4,7 @@
 [Tienda Online](#)
 <p>Tienda Online con método de pago Paypal desarrollado con NodeJS</p>
 <img src="images/5.png?raw=true"/>
+
 --- 
 [Sistema de Reconocimientos UTM](#)
 <p>Sistema de Gestión de alumnos y envío de reconocimientos desarrollado con php y el framework Laravel</p>
