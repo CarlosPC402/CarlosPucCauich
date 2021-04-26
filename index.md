@@ -21,11 +21,13 @@
 <img src="images/3.jpg?raw=true"/>
 
 ---
-## Proyectos en curso
 [SafeWater](#)
 <p>Aplicación móvil desarrollado en react native. Se usa Firebase para la autenticación y Cloud Firestore para el almacenamiento de datos</p>
 <img src="images/safewater_app.png?raw=true"/>
 
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
+## Proyectos en curso
+
 <!-- Remove above link if you don't want to attibute -->
